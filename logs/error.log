@@ -1,0 +1,12 @@
+2023-09-03 23:22:54:2254 - [31merror[39m: [31mSQLITE_ERROR: table example already exists[39m
+2023-09-04 01:07:46:746 - [31merror[39m: [31mGET /api/test 200 12 - 11.401 ms[39m
+[31m[39m
+2023-09-04 05:07:44:744 - [31merror[39m: [31mErro ao consultar dados: Error: SQLITE_ERROR: no such column: column_name[39m
+2023-09-04 05:08:12:812 - [31merror[39m: [31mErro ao consultar dados: Error: SQLITE_ERROR: no such column: column_name[39m
+2023-09-04 05:08:14:814 - [31merror[39m: [31mErro ao consultar dados: Error: SQLITE_ERROR: no such column: column_name[39m
+2023-09-04 05:08:36:836 - [31merror[39m: [31mErro ao consultar dados: Error: SQLITE_ERROR: no such column: column_name[39m
+2023-09-04 06:48:42:4842 - [31merror[39m: [31mErro ao inserir dados: Error: SQLITE_ERROR: 3 values for 4 columns[39m
+2023-09-04 06:48:42:4842 - [31merror[39m: [31mErro ao inserir dados: Error: SQLITE_ERROR: 3 values for 4 columns[39m
+2023-09-04 06:48:42:4842 - [31merror[39m: [31mErro ao inserir dados: Error: SQLITE_ERROR: 3 values for 4 columns[39m
+2023-09-04 06:48:42:4842 - [31merror[39m: [31mErro ao inserir dados: Error: SQLITE_ERROR: 3 values for 4 columns[39m
+2023-09-04 06:48:42:4842 - [31merror[39m: [31mErro ao inserir dados: Error: SQLITE_ERROR: 3 values for 4 columns[39m
